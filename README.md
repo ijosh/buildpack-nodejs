@@ -1,3 +1,5 @@
+We are adding NodeRED support and some things for timeseries.
+
 Heroku Buildpack for Node.js
 ============================
 
